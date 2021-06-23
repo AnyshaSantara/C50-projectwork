@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image:linear-gradient(to right, #a2e8fdec,#ffc0cb);
+}
+img{
+    width: 60%;
+}
+h1{
+    font-family: "Pacifico";
+    font-size: 40px;
+    text-shadow: 40px 40px 40px #000000;
+    color:rgb(0, 0, 0)
+  }
+  .footer{
+      display:flex;
+      justify-content:flex-end;
+  }
+  .footer{
+    display:flex;
+    justify-content: flex-end;
+  }
+  .site-discription{
+    display:flex;
+    flex-direction:column;
+    justify-content:first baseline;
+}
